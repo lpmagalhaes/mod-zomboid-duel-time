@@ -1,0 +1,7 @@
+name=Deathboard - Increment by Death
+id=BB_Deathboard
+poster=poster.png
+icon=icon.png
+authors=BitBraven
+modversion=1.2.0
+description=This mod adds a Death counter to the game, for multiplayer servers! Every time a Player dies, their death count increases. Use this or the other variant, NOT BOTH!
